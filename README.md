@@ -32,4 +32,4 @@ Tive um pouco de dificuldade em criar uma página responsiva e em consequência 
 
 ### Como abrir o projeto
 
-Após fazer o dowload do projeto através do botão "Code" você terá que descompactar o arquivo em algum local do seu pc,depois de descompactar o arquivo você terá que abrir o arquivo Html e pronto.Caso você queria modificar o Css, você deverá ter em seu pc um processador de preferência o Sass isso fará com que melhore a utilização da formatação do arquivo.
+Após fazer o dowload do projeto através do botão "Code" você terá que descompactar o arquivo em algum local do seu pc,depois de descompactar o arquivo você terá que abrir o arquivo Html.Caso você queria modificar o Css, você deverá ter em seu pc um processador de preferência o Sass isso fará com que melhore a utilização da formatação do arquivo.
