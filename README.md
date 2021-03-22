@@ -3,7 +3,7 @@
 
 ## Descrição:
 
-Este é um teste de avaliação para trabalhar como estágiario na empresa Linx, e a proposta do teste era fazer um página web com os elementos textuais,imagens e uma estrutura básica de um html que foi mandado para mim e o critério de avaliação seria a organização e semântica dos elementos,conhecimento de responsividade,modularidade e reusabilidade,fidelidade ao layout proposto.
+Este é um teste de avaliação para trabalhar como estágiario na empresa Linx, e a proposta do teste era fazer uma página web com os elementos textuais,imagens e uma estrutura básica de um html que foi mandado para mim e o critério de avaliação seria a organização e semântica dos elementos,conhecimento de responsividade,modularidade e reusabilidade e fidelidade ao layout proposto.
 
 
 ## Critério de criação:
@@ -33,3 +33,4 @@ Tive um pouco de dificuldade em criar uma página responsiva e em consequência 
 ### Como abrir o projeto
 
 Após fazer o dowload do projeto através do botão "Code" você terá que descompactar o arquivo em algum local do seu pc,depois de descompactar o arquivo você terá que abrir o arquivo Html.Caso você queria modificar o Css, você deverá ter em seu pc um processador de preferência o Sass isso fará com que melhore a utilização da formatação do arquivo.
+após baixar o processador Sass você terá que baixar uma extenção chamada live sass compiler no próprio visual studio e utilizar o arquivo SCSS e utilizar o comando "wacth sass" e cada momento que você salva o SCSS, o arquvo fará uma atualização no arquivo Css.
