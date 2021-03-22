@@ -10,7 +10,7 @@ Este é um teste de avaliação para trabalhar como estágiario na empresa Linx,
 
 No início da página eu criei uma Header com as cores em degradê para referenciar a logomarca da Linx e dentro da Header eu coloquei o input no lado direito da tela para fazer buscas na página,abaixo da header eu adicionei uma div para colocar um texto e descrever a finalidade dos cards,abaixo do texto eu coloquei uma div.container para agrupar uma barra de dropdown com algumas opções de seleção e abaixo do dropdown eu utilizei quatro Cards para descrever as tarefas que foram passadas e um botão de "incluir" para acionar a tarefa desejada,e abaixo dos cards eu coloquei uma footer com o logomarca e a descrição da empresa Linx com os elementos centralizados.
 
-##Coisas que eu não consegui fazer direito:
+## Coisas que eu não consegui fazer direito:
 
 Tive um pouco de dificuldade em criar uma página responsiva e em consequência disso,alguns elementos ficaram mau posicionados quando altera o tamanho da página.
 
