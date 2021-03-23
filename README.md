@@ -12,7 +12,7 @@ No início da página eu criei uma Header com as cores em degradê para referenc
 
 ## Coisas que eu não consegui fazer direito:
 
-Tive um pouco de dificuldade em criar uma página responsiva e em consequência disso,alguns elementos ficaram mau posicionados quando altera o tamanho da página.
+Tive um pouco de dificuldade em criar uma página responsiva e em consequência disso,alguns elementos ficaram um pouco mau posicionados quando altera o tamanho da página.
 
 ## Características:
 
